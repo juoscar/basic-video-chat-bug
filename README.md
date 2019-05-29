@@ -9,4 +9,4 @@ How to replicate:
 5. A and B join the other call by clicking "Connect2"
 6. A and B cannot hear (but can see) each other. Subscriber audio level is 0.0. OTAudioDeviceManager.currentAudioDevice()?.isRendering() is false
 
-See the code (especially around #warning() to know more).
+See the code (especially around #warning()) to know more.
